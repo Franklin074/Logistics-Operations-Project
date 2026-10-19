@@ -14,13 +14,11 @@ Insights and recommendations are provided on the following key areas:
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of fourteen tables, with a total row count of X records.
 
 [Entity Relationship Diagram here]
+
+A data dictionary highlighting the 
 
 
 
