@@ -8,17 +8,17 @@ Insights and recommendations are provided on the following key areas:
 - **Route Profitability:** An assessment of our routes and income generated. 
 - **Driver performance:** Evaluation of driver performance focusing on on-time delivery rate.
 
-[View the dashboard (PDF)]
+[View the dashboard (PDF)](Dashboard/Logistics_dashboard.pdf)
 
 
 
-# Data Structure & Initial Checks
+# Data Structure
 
-The companies main database structure as seen below consists of fourteen tables, with a total row count of X records.
+The company's main database structure as seen below consists of fourteen tables, with a total row count of 549,708 records.
 
-[Entity Relationship Diagram here]
+![Entity Relationship Diagram here](Images/erd.png)
 
-A data dictionary highlighting the 
+[View the full data dictionary](Documents/Data_dictionary.xlsx)
 
 
 
